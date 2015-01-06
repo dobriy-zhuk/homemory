@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e52add2-98f0-48bd-94e6-28e3538e20e9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/devices/dev4.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/devices/dev1.png" afterPath="$PROJECT_DIR$/assets/img/devices/dev1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/devices/dev2.png" afterPath="$PROJECT_DIR$/assets/img/devices/dev2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/devices/dev3.png" afterPath="$PROJECT_DIR$/assets/img/devices/dev3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="homemory.iws" />
@@ -28,7 +33,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="226" column="24" selection-start="9850" selection-end="9850" vertical-scroll-proportion="0.7106599" vertical-offset="2970" max-vertical-offset="5655">
+            <state line="267" column="36" selection-start="12494" selection-end="12494" vertical-scroll-proportion="0.8726655" vertical-offset="3491" max-vertical-offset="5595">
               <folding />
             </state>
           </provider>
@@ -221,12 +226,18 @@
       <created>1420299781657</created>
       <updated>1420299781657</updated>
     </task>
+    <task id="LOCAL-00001" summary="changed feedbacks">
+      <created>1420548956110</created>
+      <updated>1420548956110</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -259,6 +270,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="changed feedbacks" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed feedbacks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -315,7 +328,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="226" column="24" selection-start="9850" selection-end="9850" vertical-scroll-proportion="0.7106599" vertical-offset="2970" max-vertical-offset="5655">
+        <state line="267" column="36" selection-start="12494" selection-end="12494" vertical-scroll-proportion="0.8726655" vertical-offset="3491" max-vertical-offset="5595">
           <folding />
         </state>
       </provider>
