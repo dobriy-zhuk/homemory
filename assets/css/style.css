@@ -140,19 +140,23 @@ a:focus {
 .page .heading p { margin: 20px auto 0 }
 #home {
   padding: 0;
-  color: #fff;
   background-image: url(../img/cover/home.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
 }
 #home h1 {
+  color: #ffffff;
+  text-shadow: black 0 0 2px;
   margin-top: 0;
   margin-bottom: 20px;
   font-size: 60px;
 }
 #home a { margin: 0 5px }
 #home h3 {
+  color: greenyellow;
+  text-shadow: black 0 0 2px;
+  font-size: 30px;
   margin-top: 20px;
   margin-bottom: 0;
 }
