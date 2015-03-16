@@ -20,6 +20,8 @@ $email_body = "Новый заказ на homemory.ru\nИмя: $name\nEmail: $em
 $headers = "From: noreply@homemory.ru\n";
 $headers .= "Reply-To: $email_address";	
 mail($to,$email_subject,$email_body,$headers);
-echo 'Your order has send! <a href="http://homemory.ru">BACK</a>';
+echo 'Ваш заказ был отправлен! <a href="http://homemory.ru">Вернуться на сайт</a>';
+sleep(3);
+header('Location: http://homemory.ru/');
 return true;			
 ?>

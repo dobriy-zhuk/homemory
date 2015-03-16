@@ -272,7 +272,7 @@ a:focus {
 
 
 
-#devices .item { margin-bottom: 30px; margin-left:  35%}
+#devices .item { margin-bottom: 30px; margin-right: 10px;}
 #devices .carousel-indicators li {
     width: 9px;
     height: 9px;
@@ -388,8 +388,8 @@ a:focus {
 #footer .social li .twitter:focus { color: #00aced }
 #footer .social li .google-plus:hover,
 #footer .social li .google-plus:focus { color: #d34836 }
-#footer .social li .dribbble:hover,
-#footer .social li .dribbble:focus { color: #ea4c89 }
+#footer .social li .vkontakte:hover,
+#footer .social li .vkontakte:focus { color: #3276b1 }
 #footer .copyright { margin-bottom: 0 }
 /* Responsive style */
 @media screen and (max-width: 1024px) { 
